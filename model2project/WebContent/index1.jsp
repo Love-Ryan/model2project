@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	처음 작성하는 model2project
-	처음 작성하는 model2project(JC)
-	
+	두번쨰 인덱스
 </body>
 </html>
