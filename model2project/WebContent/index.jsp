@@ -8,7 +8,7 @@
 </head>
 <body>
 	처음 작성하는 model2project
-	처음 작성하는 model2project(JC)
+	처음 작성하는 model2project(JC) 
 	
 </body>
 </html>
